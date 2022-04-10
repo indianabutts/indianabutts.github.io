@@ -10578,3 +10578,14 @@ textarea:focus {
 .logo-heading {
     white-space:nowrap;
 }
+
+.clip-circle{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/* .clip-circle {
+    clip-path: circle(400px at center);
+  } */
